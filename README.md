@@ -1,4 +1,5 @@
 ## Hi there 👋
+###Schüler in der Abiturvorbereitung | Leidenschaftlich an Webentwicklung & Künstlicher Intelligenz interessiert | 🇩🇪 🇬🇧 🇦🇱
 
 <!--
 **arianitmem/arianitmem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
