@@ -18,4 +18,5 @@ Willkommen auf meinem GitHub-Profil. Ich bin Schüler in der Abiturvorbereitung 
 - TI-Nspire CX II CAS für komplexe Mathematik
 
 ### 📫 Lass uns vernetzen
-*Hier kannst du später deine E-Mail-Adresse oder einen Link zu deiner fertigen Website einfügen.*
+- **Allgemeine Anfragen & Projekte:** `arianit.memedi@icloud.com`
+- **Schulische Themen:** `memedi.arianit@student.bk-opladen.de`
