@@ -10,8 +10,8 @@ const user = {
   school: "BKO technical high school",
   location: "Germany",
   currently: "completing my German Abitur (university entrance qualification)",
-  code: [Python, JavaScript, Node.js, Terraform, TypeScript],
-  tools: [Docker, Kubernetes, React, Apache Kafka, Next.js],
+  code: [Python, JavaScript],
+  tools: ["Supabase", "Vercel", "Git", "VS Code", "Cursor", "Tkinter"],
 }
 ```
 
