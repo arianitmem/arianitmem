@@ -11,7 +11,7 @@ const user = {
   location: "Germany",
   currently: "completing my German Abitur (university entrance qualification)",
   code: [Python, JavaScript],
-  tools: [Supabase, Vercel, Git, VS Code, Cursor, Tkinter],
+  tools: [Supabase, Vercel, Git, VSCode, Cursor, Tkinter],
 }
 ```
 
