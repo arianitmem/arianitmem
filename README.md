@@ -19,6 +19,7 @@ const user = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DD2423?style=flat&logo=solidworks&logoColor=white)
 ---
 <p align="center">
   <a href=""/></a>
